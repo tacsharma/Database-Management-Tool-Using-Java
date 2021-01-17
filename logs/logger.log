@@ -1,0 +1,30 @@
+2019-02-18 10:45:02 ERROR Tutorial:81 - Test Message.
+2019-02-18 10:52:32 ERROR Database:81 - The file name cannot be empty.
+2019-02-18 11:03:07 ERROR Database:85 - The file name cannot be empty.
+2019-02-18 11:04:44 ERROR Database:88 - Wrong extension for table.
+2019-02-18 11:36:16 ERROR Database:96 - File Name length is more than required.
+2019-02-18 12:22:23 ERROR Database:90 - The file name cannot be empty.
+2019-02-18 12:22:33 ERROR Database:90 - The file name cannot be empty.
+2019-02-18 12:22:50 ERROR Database:96 - File Name length is more than required.
+2019-02-18 12:23:10 ERROR Database:93 - Wrong extension for table.
+2019-02-18 13:04:35 ERROR Database:90 - The file name cannot be empty.
+2019-02-18 13:04:39 ERROR Database:90 - The file name cannot be empty.
+2019-02-18 13:25:25 ERROR Database:93 - The file name cannot be empty.
+2019-02-18 14:11:05 ERROR Database:82 - This is an empty file name.
+2019-02-18 14:17:02 ERROR Database:82 - This is an empty file name.
+2019-02-18 14:26:12 ERROR Database:89 - Wrong extension for table.
+2019-02-18 14:30:40 ERROR Tutorial:86 - This is an empty file name.
+2019-02-18 14:36:55 ERROR Tutorial:95 - File Name Length exceeded.
+2019-02-18 14:58:28 ERROR Tutorial:89 - This is an empty file name.
+2019-02-18 15:04:56 INFO  Tutorial:49 - Entry added.
+2019-02-18 15:14:18 ERROR Tutorial:94 - This is an empty file name.
+2019-02-18 15:15:32 ERROR Tutorial:97 - Wrong extension for table.
+2019-02-18 15:16:19 ERROR Tutorial:100 - File Name Length exceeded.
+2019-02-18 15:16:43 ERROR Tutorial:100 - File Name Length exceeded.
+2019-02-18 15:20:09 INFO  Tutorial:87 - Database was listed.
+2019-02-18 15:20:44 INFO  Tutorial:79 - Table was shown.
+2019-02-18 15:51:20 INFO  Tutorial:49 - Entry added.
+2019-02-18 15:51:36 INFO  Tutorial:79 - Table was shown.
+2019-02-18 15:52:09 INFO  Tutorial:49 - Entry added.
+2019-02-18 15:52:19 INFO  Tutorial:79 - Table was shown.
+2019-02-18 15:54:55 INFO  Tutorial:49 - Entry added.
